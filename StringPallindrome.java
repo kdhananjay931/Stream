@@ -1,7 +1,3 @@
-package Revision;
-
-import java.util.Locale;
-
 public class StringPallindrome {
     public static void main(String[] args) {
 
